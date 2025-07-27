@@ -15,4 +15,4 @@ W projekcie wykorzystano zbiór danych **Adult Census Income** oraz różne algo
 Zastosowano również techniki przetwarzania danych i strojenia hiperparametrów.
 
 
-[HotellReservations](https://patrycjamv.github.io/Klasyfikacja-dochodow/income_classification.html)
+[HotelReservations](https://patrycjamv.github.io/Klasyfikacja-dochodow/income_classification.html)
