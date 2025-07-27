@@ -4,7 +4,7 @@
 
 Celem projektu jest zbudowanie modelu klasyfikacyjnego, który przewiduje, czy dana osoba osiąga dochód powyżej 50 000 dolarów rocznie.
 
-W projekcie wykorzystano zbiór danych **Adult Census Income** (32 561 obserwacji) oraz różne algorytmy uczenia maszynowego, m.in.:
+W projekcie wykorzystano zbiór danych **Adult Census Income** oraz różne algorytmy uczenia maszynowego:
 - Regresja logistyczna (Logistic Regression) 
 - Drzewo decyzyjne (Decision Tree)
 - Las losowy (Random Forest)
